@@ -3,7 +3,7 @@
 class main {
     public static void main(String[] args) {
         // Переменные для хранения стоимости билета и количества бонусных миль
-        int costOfTicket = 0.0;
+        int costOfTicket = 3500;
         double bonusMiles = 0.0;
 
 
