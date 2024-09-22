@@ -1,6 +1,6 @@
 
 
-class main {
+class Main {
     public static void main(String[] args) {
         // Переменные для хранения стоимости билета и количества бонусных миль
         int costOfTicket = 13676;
